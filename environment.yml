@@ -1,0 +1,13 @@
+name: scholar
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - jupyterlab
+  - numpy
+  - sympy
+  - matplotlib
+  - pandas
+  - scipy
+  - ipywidgets
+  - nbstripout

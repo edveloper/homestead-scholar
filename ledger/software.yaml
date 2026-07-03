@@ -1,0 +1,15 @@
+# Software projects (the applied capstones + any tools you build, incl. the site's Scholar section).
+
+- name: Kamusi Yetu
+  repo:                      # git URL
+  live_url: https://kamusi-yetu.vercel.app/
+  module:                    # where it folds in (~10 onward; capstone Yr4–5)
+  role: "37-language Kenyan dictionary — corpus/NLP research + programming"
+  status: active
+
+- name: Usalama Voice
+  repo:
+  live_url: https://usalama-voice.com/
+  module:
+  role: "GBV reporting & survivor support — civics + data ethics + software"
+  status: active

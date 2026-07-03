@@ -1,0 +1,15 @@
+# Python / conda
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (for later, if the site tooling ever lands here)
+node_modules/
+
+# Private: Project Euler solutions past #100, plus anything unpublished
+private/

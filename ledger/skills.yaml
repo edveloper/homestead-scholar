@@ -1,0 +1,11 @@
+# Skills matrix across the tracks.
+# category: carpentry | water | earth | stone | bamboo | metal | electrical-solar | vehicles | growing | research | maths | philosophy
+# level: for tracked skills use the Track level (A=metalwork L1–7, B=vehicles L1–3); else 1–4 self-assessed.
+
+- skill: Sharpening edge tools
+  category: carpentry
+  track: "-"
+  level: 3
+  module: 1
+  evidence:                  # link to a build log / photo / notebook
+  date_reached: 2026-07-11

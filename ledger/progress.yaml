@@ -1,0 +1,19 @@
+# TRANSCRIPT — one entry per module. Scores are 1–4 (4 Mastery · 3 Proficient · 2 Developing · 1 Beginning).
+# Weights: MA 40% · CO 15% · SR 20% · RE 15% · PH 10%.  Credit = weighted >= 3.0 + gates passed + all artifacts.
+# Copy the block below for each module as you finish it.
+
+- module: 1
+  title: "The Maker's Foundation"
+  started: 2026-07-06        # YYYY-MM-DD
+  completed:                 # fill when done
+  scores:                    # 1–4 each
+    MA:
+    CO:
+    SR:
+    RE:
+    PH:
+  weighted_total:            # 0.40*MA + 0.15*CO + 0.20*SR + 0.15*RE + 0.10*PH
+  gates_passed:              # true/false (safety; first-aid when scheduled)
+  artifacts_complete:        # true/false (all 6 portfolio artifacts present)
+  self_review: >
+    What went well, what didn't, what I'd change. Be honest — this is for future-me.

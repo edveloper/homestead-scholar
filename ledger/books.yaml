@@ -1,0 +1,13 @@
+# Reading log across the whole programme (philosophy + trade + research).
+# status: reading | finished | reference
+
+- title:
+  author:
+  module:                    # which module it belongs to
+  strand:                    # PH | SR | RE | CO | MA | CM
+  status: reading
+  rating:                    # 1–5 (optional)
+  started:
+  finished:
+  takeaways: >
+    Key ideas I want to keep.

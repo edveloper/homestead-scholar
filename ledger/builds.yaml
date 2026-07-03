@@ -1,0 +1,13 @@
+# Every build in one queryable place (mirrors the Master Project Catalogue).
+# site: Voi | Kilifi | Oyugis
+
+- name: Joiner's mallet
+  category: furniture-tools
+  site: Voi
+  module: 1
+  materials:
+  cost_kes:
+  photos:                    # link(s) or media/ path
+  drawings:
+  outcome:                   # built | partial | failed
+  lessons: >
