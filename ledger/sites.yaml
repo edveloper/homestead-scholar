@@ -1,0 +1,28 @@
+# Managed from the site admin — safe to edit here or in the repo.
+- name: Voi
+  slug: voi
+  role: course-primary
+  status: active
+  region: Taita-Taveta
+  description: 'Semi-arid home base: the daily workshop, solar, water and earth prototypes, and the pot garden.'
+  lat: -3.396
+  lng: 38.556
+  radius_km: 15
+- name: Kilifi
+  slug: kilifi
+  role: course-primary
+  status: active
+  region: Kilifi
+  description: 'Coastal: bamboo, coastal building and humidity-tolerant systems.'
+  lat: -3.63
+  lng: 39.85
+  radius_km: 15
+- name: Oyugis
+  slug: oyugis
+  role: course-primary
+  status: active
+  region: Homa Bay
+  description: 'Lake basin: the main permaculture parcel and the larger earthworks.'
+  lat: -0.72
+  lng: 34.73
+  radius_km: 15
