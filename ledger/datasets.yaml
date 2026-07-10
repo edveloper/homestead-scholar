@@ -7,3 +7,19 @@
   site: Voi
   module: 2
   description: 'Daily pile temperature: a managed hot pile against an unmanaged control.'
+- name: Soil pH by bed
+  slug: soil-ph
+  unit: pH
+  chart_type: bar
+  csv_path: datasets/soil-ph.csv
+  site: Voi
+  module: 4
+  description: Soil pH before and after a season of regenerative beds.
+- name: Off-grid energy
+  slug: energy-output
+  unit: Wh/day
+  chart_type: line
+  csv_path: datasets/energy-output.csv
+  site: Voi
+  module: 5
+  description: Daily generation against consumption on the DC solar system.
