@@ -1,19 +1,25 @@
-# TRANSCRIPT — one entry per module. Scores are 1–4 (4 Mastery · 3 Proficient · 2 Developing · 1 Beginning).
-# Weights: MA 40% · CO 15% · SR 20% · RE 15% · PH 10%.  Credit = weighted >= 3.0 + gates passed + all artifacts.
-# Copy the block below for each module as you finish it.
-
+# Managed from the site admin — safe to edit here or in the repo.
 - module: 1
-  title: "The Maker's Foundation"
-  started: 2026-07-06        # YYYY-MM-DD
-  completed:                 # fill when done
-  scores:                    # 1–4 each
-    MA:
-    CO:
-    SR:
-    RE:
-    PH:
-  weighted_total:            # 0.40*MA + 0.15*CO + 0.20*SR + 0.15*RE + 0.10*PH
-  gates_passed:              # true/false (safety; first-aid when scheduled)
-  artifacts_complete:        # true/false (all 6 portfolio artifacts present)
-  self_review: >
-    What went well, what didn't, what I'd change. Be honest — this is for future-me.
+  title: The Maker's Foundation
+  started: '2026-07-06'
+  completed: '2026-07-09'
+  scores:
+    MA: 3
+    CO: 3
+    SR: 4
+    RE: 3
+    PH: 3
+  weighted_total: 3.2
+  gates_passed: true
+  artifacts_complete: true
+  maths_test_percent: 78
+  signature_project: mallet, sawbench, baseline survey, pot garden
+  self_review: >-
+    Sharpening was the real unlock — once the tools were properly sharp, the joinery came fast.
+    Setting up the maths lab took longer than the maths itself. Carrying better tool discipline into
+    Module 2.
+- module: 2
+  title: Workbench & Compost Lab
+  started: '2026-07-10'
+  current_focus: Week 3 — the hot-vs-cold compost experiment & expanding brackets
+  signature_project: workbench, compost bays, raised beds, stool
