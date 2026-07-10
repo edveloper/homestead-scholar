@@ -1,13 +1,22 @@
-# Every build in one queryable place (mirrors the Master Project Catalogue).
-# site: Voi | Kilifi | Oyugis
-
+# Managed from the site admin — safe to edit here or in the repo.
 - name: Joiner's mallet
   category: furniture-tools
   site: Voi
   module: 1
-  materials:
-  cost_kes:
-  photos:                    # link(s) or media/ path
-  drawings:
-  outcome:                   # built | partial | failed
-  lessons: >
+  outcome: built
+- name: Foot Stool
+  category: furniture
+  site: Voi
+  module: 4
+  materials: Pine wood, saw, workbench
+  cost_kes: 3000
+  outcome: built
+  started: '2026-07-02'
+  completed: '2026-07-07'
+  lessons: That not all wood behaves the same
+  images:
+    - image_url: >-
+        https://vcspxuhdaknrgbstjdrj.supabase.co/storage/v1/object/public/portfolio-assets/student/1783661156989-99b5d869-pexels-uyen-ph-m-m-n-du-375484808-14593564.jpg
+      caption: Foot stool by Eddie
+      date_taken: '2026-07-08'
+      stage: Finished
