@@ -1,13 +1,52 @@
-# Reading log across the whole programme (philosophy + trade + research).
-# status: reading | finished | reference
-
-- title:
-  author:
-  module:                    # which module it belongs to
-  strand:                    # PH | SR | RE | CO | MA | CM
+# Managed from the site admin — safe to edit here or in the repo.
+- title: The Elements of Moral Philosophy
+  author: James Rachels
+  isbn: '9780078038242'
+  module: 4
+  strand: PH
+  status: finished
+  rating: 5
+  started: '2026-07-06'
+  finished: '2026-07-20'
+  takeaways: >-
+    The clearest map of the big ethical theories I have read. Rachels is fair to each one before he
+    pushes on it. The chapter on why morality is more than opinion stuck with me.
+- title: Essential Woodworking Hand Tools
+  author: Paul Sellers
+  isbn: '9780995500204'
+  module: 1
+  strand: SR
+  status: reference
+  rating: 5
+  takeaways: >-
+    Less a book to read than a standing reference. I keep coming back to the sharpening and
+    plane-setup pages.
+- title: Thinking in Systems
+  author: Donella H. Meadows
+  isbn: '9781603580557'
+  module: 9
+  strand: RE
   status: reading
-  rating:                    # 1–5 (optional)
-  started:
-  finished:
-  takeaways: >
-    Key ideas I want to keep.
+  rating: 4
+  started: '2026-07-08'
+  takeaways: >-
+    Stocks, flows and feedback are quietly reshaping how I look at the whole homestead, not just the
+    water system.
+- title: Book of Proof
+  author: Richard Hammack
+  isbn: '9780989472104'
+  module: 15
+  strand: MA
+  status: reference
+  rating: 5
+  takeaways: The free bridge into real proof. Saving the hard chapters for Module 15, but I peek ahead.
+- title: Introduction to Logic and Critical Thinking
+  author: Matthew Van Cleave
+  module: 1
+  strand: PH
+  status: finished
+  rating: 4
+  finished: '2026-07-09'
+  takeaways: >-
+    An honest, free logic primer. Reconstructing arguments in standard form is a skill I now catch
+    myself using on the news.
