@@ -1,22 +1,70 @@
 # Managed from the site admin — safe to edit here or in the repo.
 - name: Joiner's mallet
-  category: furniture-tools
-  site: Voi
-  module: 1
-  outcome: built
-- name: Foot Stool
   category: furniture
   site: Voi
-  module: 4
-  materials: Pine wood, saw, workbench
-  cost_kes: 3000
+  module: 1
+  materials: dense offcut head, straight-grain handle
+  cost_kes: 1500
   outcome: built
-  started: '2026-07-02'
-  completed: '2026-07-07'
-  lessons: That not all wood behaves the same
+  lessons: The tapered mortise is all about a snug, self-tightening fit.
   images:
-    - image_url: >-
-        https://vcspxuhdaknrgbstjdrj.supabase.co/storage/v1/object/public/portfolio-assets/student/1783661156989-99b5d869-pexels-uyen-ph-m-m-n-du-375484808-14593564.jpg
-      caption: Foot stool by Eddie
-      date_taken: '2026-07-08'
-      stage: Finished
+    - image_url: https://picsum.photos/seed/mallet1/800/600
+      caption: Marking the mortise
+      stage: prep
+    - image_url: https://picsum.photos/seed/mallet2/800/600
+      caption: Finished and wedged
+      stage: finished
+- name: Compost bays
+  category: growing
+  site: Voi
+  module: 2
+  materials: cypress slats
+  cost_kes: 3500
+  outcome: built
+  lessons: Aeration matters more than volume.
+  images:
+    - image_url: https://picsum.photos/seed/compost1/800/600
+      caption: Three-bay build
+      stage: finished
+- name: Rainwater to tank to drip
+  category: water
+  site: Voi
+  module: 3
+  materials: PVC, 1000L tank, drip line
+  cost_kes: 12000
+  outcome: built
+  lessons: A first-flush diverter earns its keep in the dry season.
+  images:
+    - image_url: https://picsum.photos/seed/water1/800/600
+      caption: Gutter and first-flush
+      stage: assembly
+    - image_url: https://picsum.photos/seed/water2/800/600
+      caption: Drip lines run to the beds
+      stage: finished
+- name: Welded farm gate
+  category: metal
+  site: Oyugis
+  module: 8
+  materials: box steel, stick weld
+  cost_kes: 8000
+  outcome: built
+  lessons: Grind, fit, tack, then weld. In that order.
+  images:
+    - image_url: https://picsum.photos/seed/gate1/800/600
+      caption: Fabricated and hung
+      stage: finished
+- name: Bamboo pavilion frame
+  category: dwellings
+  site: Kilifi
+  module: 13
+  materials: treated Bambusa, bolted joints
+  cost_kes: 20000
+  outcome: partial
+  lessons: Treatment is the whole game with bamboo.
+  images:
+    - image_url: https://picsum.photos/seed/bamboo1/800/600
+      caption: Posts and beams up
+      stage: assembly
+    - image_url: https://picsum.photos/seed/bamboo2/800/600
+      caption: Bolted joints
+      stage: joinery
