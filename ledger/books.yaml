@@ -6,11 +6,7 @@
   strand: PH
   status: finished
   rating: 5
-  started: '2026-07-06'
-  finished: '2026-07-20'
-  takeaways: >-
-    The clearest map of the big ethical theories I have read. Rachels is fair to each one before he
-    pushes on it. The chapter on why morality is more than opinion stuck with me.
+  takeaways: The clearest map of the big ethical theories I have read.
 - title: Essential Woodworking Hand Tools
   author: Paul Sellers
   isbn: '9780995500204'
@@ -18,9 +14,7 @@
   strand: SR
   status: reference
   rating: 5
-  takeaways: >-
-    Less a book to read than a standing reference. I keep coming back to the sharpening and
-    plane-setup pages.
+  takeaways: A standing reference. The sharpening pages especially.
 - title: Thinking in Systems
   author: Donella H. Meadows
   isbn: '9781603580557'
@@ -28,10 +22,7 @@
   strand: RE
   status: reading
   rating: 4
-  started: '2026-07-08'
-  takeaways: >-
-    Stocks, flows and feedback are quietly reshaping how I look at the whole homestead, not just the
-    water system.
+  takeaways: Stocks, flows and feedback reshaped how I see the whole homestead.
 - title: Book of Proof
   author: Richard Hammack
   isbn: '9780989472104'
@@ -39,14 +30,11 @@
   strand: MA
   status: reference
   rating: 5
-  takeaways: The free bridge into real proof. Saving the hard chapters for Module 15, but I peek ahead.
+  takeaways: The free bridge into real proof.
 - title: Introduction to Logic and Critical Thinking
   author: Matthew Van Cleave
   module: 1
   strand: PH
   status: finished
   rating: 4
-  finished: '2026-07-09'
-  takeaways: >-
-    An honest, free logic primer. Reconstructing arguments in standard form is a skill I now catch
-    myself using on the news.
+  takeaways: Reconstructing arguments in standard form is a skill I use daily now.
