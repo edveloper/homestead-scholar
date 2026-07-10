@@ -2,7 +2,7 @@
 - module: 1
   title: The Maker's Foundation
   started: '2026-07-06'
-  completed: '2026-07-09'
+  completed: '2026-08-28'
   scores:
     MA: 3
     CO: 3
@@ -15,11 +15,42 @@
   maths_test_percent: 78
   signature_project: mallet, sawbench, baseline survey, pot garden
   self_review: >-
-    Sharpening was the real unlock — once the tools were properly sharp, the joinery came fast.
-    Setting up the maths lab took longer than the maths itself. Carrying better tool discipline into
-    Module 2.
+    Sharpening was the real unlock. Once the tools were sharp the joinery came fast. Carrying better
+    tool discipline into the next module.
 - module: 2
   title: Workbench & Compost Lab
-  started: '2026-07-10'
-  current_focus: Week 3 — the hot-vs-cold compost experiment & expanding brackets
+  started: '2026-09-08'
+  completed: '2026-10-30'
+  scores:
+    MA: 3
+    CO: 4
+    SR: 3
+    RE: 4
+    PH: 3
+  weighted_total: 3.3
+  gates_passed: true
+  artifacts_complete: true
+  maths_test_percent: 81
   signature_project: workbench, compost bays, raised beds, stool
+  self_review: The compost experiment taught me more than the build. Daily measurement is a habit now.
+- module: 3
+  title: The Water Computer
+  started: '2026-11-10'
+  completed: '2027-01-08'
+  scores:
+    MA: 4
+    CO: 4
+    SR: 3
+    RE: 3
+    PH: 4
+  weighted_total: 3.65
+  gates_passed: true
+  artifacts_complete: true
+  maths_test_percent: 85
+  signature_project: rainwater to tank to drip, wicking bed
+  self_review: Validating a model against a real tank was the moment the maths felt real.
+- module: 4
+  title: The Geometry of the Garden
+  started: '2027-01-19'
+  current_focus: Week 5, the garden-layout program and constructions
+  signature_project: keyhole and mandala beds, a planted guild
