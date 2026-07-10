@@ -1,0 +1,9 @@
+# Managed from the site admin — safe to edit here or in the repo.
+- name: 'Compost: hot vs cold'
+  slug: compost-hot-vs-cold
+  unit: °C
+  chart_type: line
+  csv_path: datasets/compost-hot-vs-cold.csv
+  site: Voi
+  module: 2
+  description: 'Daily pile temperature: a managed hot pile against an unmanaged control.'
