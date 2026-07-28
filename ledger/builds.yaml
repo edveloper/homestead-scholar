@@ -1,70 +1,13 @@
-# Managed from the site admin — safe to edit here or in the repo.
+# Every build in one queryable place (mirrors the Master Project Catalogue).
+# site: Voi | Kilifi | Oyugis
+
 - name: Joiner's mallet
-  category: furniture
+  category: furniture-tools
   site: Voi
   module: 1
-  materials: dense offcut head, straight-grain handle
-  cost_kes: 1500
-  outcome: built
-  lessons: The tapered mortise is all about a snug, self-tightening fit.
-  images:
-    - image_url: https://picsum.photos/seed/mallet1/800/600
-      caption: Marking the mortise
-      stage: prep
-    - image_url: https://picsum.photos/seed/mallet2/800/600
-      caption: Finished and wedged
-      stage: finished
-- name: Compost bays
-  category: growing
-  site: Voi
-  module: 2
-  materials: cypress slats
-  cost_kes: 3500
-  outcome: built
-  lessons: Aeration matters more than volume.
-  images:
-    - image_url: https://picsum.photos/seed/compost1/800/600
-      caption: Three-bay build
-      stage: finished
-- name: Rainwater to tank to drip
-  category: water
-  site: Voi
-  module: 3
-  materials: PVC, 1000L tank, drip line
-  cost_kes: 12000
-  outcome: built
-  lessons: A first-flush diverter earns its keep in the dry season.
-  images:
-    - image_url: https://picsum.photos/seed/water1/800/600
-      caption: Gutter and first-flush
-      stage: assembly
-    - image_url: https://picsum.photos/seed/water2/800/600
-      caption: Drip lines run to the beds
-      stage: finished
-- name: Welded farm gate
-  category: metal
-  site: Oyugis
-  module: 8
-  materials: box steel, stick weld
-  cost_kes: 8000
-  outcome: built
-  lessons: Grind, fit, tack, then weld. In that order.
-  images:
-    - image_url: https://picsum.photos/seed/gate1/800/600
-      caption: Fabricated and hung
-      stage: finished
-- name: Bamboo pavilion frame
-  category: dwellings
-  site: Kilifi
-  module: 13
-  materials: treated Bambusa, bolted joints
-  cost_kes: 20000
-  outcome: partial
-  lessons: Treatment is the whole game with bamboo.
-  images:
-    - image_url: https://picsum.photos/seed/bamboo1/800/600
-      caption: Posts and beams up
-      stage: assembly
-    - image_url: https://picsum.photos/seed/bamboo2/800/600
-      caption: Bolted joints
-      stage: joinery
+  materials:
+  cost_kes:
+  photos:
+  drawings:
+  outcome:
+  lessons: >
