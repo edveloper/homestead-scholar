@@ -1,56 +1,19 @@
-# Managed from the site admin — safe to edit here or in the repo.
+# TRANSCRIPT — one entry per module. Scores are 1–4 (4 Mastery · 3 Proficient · 2 Developing · 1 Beginning).
+# Weights: MA 40% · CO 15% · SR 20% · RE 15% · PH 10%.  Credit = weighted >= 3.0 + gates passed + all artifacts.
+# Copy the block below for each module as you finish it.
+
 - module: 1
-  title: The Maker's Foundation
-  started: '2026-07-06'
-  completed: '2026-08-28'
+  title: "The Maker's Foundation"
+  started: 2026-07-06
+  completed:
   scores:
-    MA: 3
-    CO: 3
-    SR: 4
-    RE: 3
-    PH: 3
-  weighted_total: 3.2
-  gates_passed: true
-  artifacts_complete: true
-  maths_test_percent: 78
-  signature_project: mallet, sawbench, baseline survey, pot garden
-  self_review: >-
-    Sharpening was the real unlock. Once the tools were sharp the joinery came fast. Carrying better
-    tool discipline into the next module.
-- module: 2
-  title: Workbench & Compost Lab
-  started: '2026-09-08'
-  completed: '2026-10-30'
-  scores:
-    MA: 3
-    CO: 4
-    SR: 3
-    RE: 4
-    PH: 3
-  weighted_total: 3.3
-  gates_passed: true
-  artifacts_complete: true
-  maths_test_percent: 81
-  signature_project: workbench, compost bays, raised beds, stool
-  self_review: The compost experiment taught me more than the build. Daily measurement is a habit now.
-- module: 3
-  title: The Water Computer
-  started: '2026-11-10'
-  completed: '2027-01-08'
-  scores:
-    MA: 4
-    CO: 4
-    SR: 3
-    RE: 3
-    PH: 4
-  weighted_total: 3.65
-  gates_passed: true
-  artifacts_complete: true
-  maths_test_percent: 85
-  signature_project: rainwater to tank to drip, wicking bed
-  self_review: Validating a model against a real tank was the moment the maths felt real.
-- module: 4
-  title: The Geometry of the Garden
-  started: '2027-01-19'
-  current_focus: Week 5, the garden-layout program and constructions
-  signature_project: keyhole and mandala beds, a planted guild
+    MA:
+    CO:
+    SR:
+    RE:
+    PH:
+  weighted_total:
+  gates_passed:
+  artifacts_complete:
+  self_review: >
+    What went well, what didn't, what I'd change. Be honest, this is for future-me.
