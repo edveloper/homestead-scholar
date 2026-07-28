@@ -1,40 +1,13 @@
-# Managed from the site admin — safe to edit here or in the repo.
-- title: The Elements of Moral Philosophy
-  author: James Rachels
-  isbn: '9780078038242'
-  module: 4
-  strand: PH
-  status: finished
-  rating: 5
-  takeaways: The clearest map of the big ethical theories I have read.
-- title: Essential Woodworking Hand Tools
-  author: Paul Sellers
-  isbn: '9780995500204'
-  module: 1
-  strand: SR
-  status: reference
-  rating: 5
-  takeaways: A standing reference. The sharpening pages especially.
-- title: Thinking in Systems
-  author: Donella H. Meadows
-  isbn: '9781603580557'
-  module: 9
-  strand: RE
+# Reading log across the whole programme (philosophy + trade + research).
+# status: reading | finished | reference
+
+- title:
+  author:
+  module:
+  strand:
   status: reading
-  rating: 4
-  takeaways: Stocks, flows and feedback reshaped how I see the whole homestead.
-- title: Book of Proof
-  author: Richard Hammack
-  isbn: '9780989472104'
-  module: 15
-  strand: MA
-  status: reference
-  rating: 5
-  takeaways: The free bridge into real proof.
-- title: Introduction to Logic and Critical Thinking
-  author: Matthew Van Cleave
-  module: 1
-  strand: PH
-  status: finished
-  rating: 4
-  takeaways: Reconstructing arguments in standard form is a skill I use daily now.
+  rating:
+  started:
+  finished:
+  takeaways: >
+    Key ideas I want to keep.
