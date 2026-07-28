@@ -1,8 +1,11 @@
-# Managed from the site admin — safe to edit here or in the repo.
+# External benchmarks: IGCSE (M5) · AS (M9) · A-level (M11) · Further Maths (M14) · TMUA (M16).
+# Record every mock/real sitting.
+
 - name: IGCSE Maths (Extended)
   module: 5
-  paper: Edexcel 4MA1 specimen
-  score: 88%
-  grade: A
+  date:
+  paper:
+  score:
+  grade:
   type: mock
-  notes: Full paper under timed conditions.
+  notes: >
