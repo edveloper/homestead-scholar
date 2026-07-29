@@ -7,7 +7,7 @@
   module: 1
   materials:
   cost_kes:
-  photos:                    # link(s) or media/ path
+  photos:
   drawings:
-  outcome:                   # built | partial | failed
+  outcome:
   lessons: >

@@ -1,0 +1,31 @@
+# Land sites — open registry (not fixed to three). Add any borrowed/family/
+# friend parcel here the same way; no schema change needed.
+# status: active | planned | inactive
+
+- name: Voi
+  slug: voi
+  role: Home base — terrace/rooftop garden, daily workshop
+  status: active
+  region: Semi-arid, Taita-Taveta
+  description: >
+    Terrace/rooftop garden at the home base. The daily lab, the workshop,
+    and where most Module 1-3 builds happen.
+
+- name: Kilifi (Mto Ndia)
+  slug: kilifi-mto-ndia
+  role: Coastal parcel — bamboo, coastal building, humidity-tolerant systems
+  status: active
+  region: Coastal, Kilifi County
+  description: >
+    A quarter-acre in Mto Ndia. Bamboo structures, coastal durability
+    trials, and humidity-tolerant construction.
+
+- name: Oyugis (Anyona)
+  slug: oyugis-anyona
+  role: Main permaculture parcel — earthworks, food forest, larger structures
+  status: active
+  region: Lake Victoria basin, Homa Bay County
+  description: >
+    Three acres in Anyona. The main regenerating landscape — swales, food
+    forest, livestock infrastructure, and the larger builds from Module 12
+    onward.

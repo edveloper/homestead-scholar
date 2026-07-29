@@ -4,16 +4,16 @@
 
 - module: 1
   title: "The Maker's Foundation"
-  started: 2026-07-06        # YYYY-MM-DD
-  completed:                 # fill when done
-  scores:                    # 1–4 each
+  started: 2026-07-06
+  completed:
+  scores:
     MA:
     CO:
     SR:
     RE:
     PH:
-  weighted_total:            # 0.40*MA + 0.15*CO + 0.20*SR + 0.15*RE + 0.10*PH
-  gates_passed:              # true/false (safety; first-aid when scheduled)
-  artifacts_complete:        # true/false (all 6 portfolio artifacts present)
+  weighted_total:
+  gates_passed:
+  artifacts_complete:
   self_review: >
-    What went well, what didn't, what I'd change. Be honest — this is for future-me.
+    What went well, what didn't, what I'd change. Be honest, this is for future-me.

@@ -3,10 +3,10 @@
 
 - title:
   author:
-  module:                    # which module it belongs to
-  strand:                    # PH | SR | RE | CO | MA | CM
+  module:
+  strand:
   status: reading
-  rating:                    # 1–5 (optional)
+  rating:
   started:
   finished:
   takeaways: >

@@ -1,11 +1,11 @@
-# External benchmarks: IGCSE (end Yr1, M5) · AS (M9) · A-level (M11) · Further Maths (M14) · TMUA (M16).
+# External benchmarks: IGCSE (M5) · AS (M9) · A-level (M11) · Further Maths (M14) · TMUA (M16).
 # Record every mock/real sitting.
 
 - name: IGCSE Maths (Extended)
   module: 5
-  date:                      # YYYY-MM-DD
-  paper:                     # e.g. "Edexcel 4MA1 Paper 1H"
-  score:                     # raw or %
-  grade:                     # e.g. A*, A, 9, 8...
-  type: mock                 # mock | real (British Council Nairobi)
+  date:
+  paper:
+  score:
+  grade:
+  type: mock
   notes: >
