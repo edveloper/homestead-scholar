@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "90de2a418aafb8a1",
+        "id": "b2ebc487dbc5a310",
         "type": "tabs",
         "children": [
           {
-            "id": "678dba8813202b38",
+            "id": "5a00a0f706ccf0e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "How To Make Smart Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How To Make Smart Notes"
             }
           }
         ]
@@ -176,6 +180,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "678dba8813202b38",
-  "lastOpenFiles": []
+  "active": "5b96f4e22a52e0b0",
+  "lastOpenFiles": [
+    "How To Make Smart Notes.md",
+    "Research Methods"
+  ]
 }

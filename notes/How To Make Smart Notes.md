@@ -1,0 +1,2 @@
+- I'll use the Slip-box method where I give equal care to Bibliographic information and brief notes on content
+- The ToolBox: a) Something to write with and something to write on e.g. pen and paper. b) A reference management system e.g. Zotero or Citavi. c) The slip box itself whether digital or physical (proper notes come in here). d) An editor such as Word or Google Docs.
