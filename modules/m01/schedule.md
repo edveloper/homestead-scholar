@@ -39,11 +39,11 @@ Site references below say **Voi** — that's the terrace/rooftop garden at home 
 ## Week 1 — Set up; place value, operations, negatives
 
 #### Mon
-- [ ] **Mind:** MA — take the Khan Academy diagnostic/placement for *Arithmetic*.
+- [x] **Mind:** MA — take the Khan Academy diagnostic/placement for *Arithmetic*.
   CO 1 — set up the lab: install Anaconda + Jupyter, create your first notebook
   (markdown + code cells), commit it to this repo's `maths-lab/`. *Apps: Khan
   Academy, Jupyter (Project Jupyter "Try Jupyter" docs), Git.*
-- [ ] **Hands & Reason:** RE 1 — set up your research log in `modules/m01/research/`
+- [x] **Hands & Reason:** RE 1 — set up your research log in `modules/m01/research/`
   (read Ahrens, *How to Take Smart Notes*, ch.1-3, first). Then a first
   observation walk of Voi — just look, no measuring yet.
 - **Log:** `journal/2026-W31.md`.
